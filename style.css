@@ -47,3 +47,7 @@ p {
   width: 80px; /* Adjust size as needed */
   height: auto;
 }
+.hero{
+  position: absolute;
+  justify-content: flex-start;
+}
