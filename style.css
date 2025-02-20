@@ -40,3 +40,11 @@ p {
 .topnav a:hover {
   color: #f4bbd7;
 }
+.logo {
+  position: absolute;
+  top: -20px; /* Adjust to overlap navbar */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px; /* Adjust size as needed */
+  height: auto;
+}
